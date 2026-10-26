@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\bin\Debug\net10.0\Practice_OOP.exe
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\bin\Debug\net10.0\Practice_OOP.deps.json
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\bin\Debug\net10.0\Practice_OOP.runtimeconfig.json
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\bin\Debug\net10.0\Practice_OOP.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\bin\Debug\net10.0\Practice_OOP.pdb
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.AssemblyInfo.cs
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\refint\Practice_OOP.dll
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.pdb
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\Practice_OOP.genruntimeconfig.cache
+C:\Users\HP\OneDrive - STI College Marikina\Desktop\OOP\Practice_OOP\obj\Debug\net10.0\ref\Practice_OOP.dll
